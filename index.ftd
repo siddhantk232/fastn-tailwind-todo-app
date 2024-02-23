@@ -1,6 +1,5 @@
--- import: fastn-tailwind-todo-app/assets
+-- import: sidd.fifthtry.site/assets
 
 -- ftd.text: Hello world
-;; assets gives PWD, we have tailwind-dev.css in PWD/assets/
-css: $assets.files.assets.tailwind-dev.css
-classes: text-green-700,border-2,border-indigo-700,p-4,text-center
+css: $assets.files.assets.dev.css
+classes: text-green-700, border-2, border-red-700, p-4, text-center

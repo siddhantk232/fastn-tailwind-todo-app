@@ -538,9 +538,9 @@ video {
   border-width: 2px;
 }
 
-.border-indigo-700 {
+.border-red-700 {
   --tw-border-opacity: 1;
-  border-color: rgb(67 56 202 / var(--tw-border-opacity));
+  border-color: rgb(185 28 28 / var(--tw-border-opacity));
 }
 
 .p-4 {
